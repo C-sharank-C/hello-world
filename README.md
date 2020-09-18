@@ -1,5 +1,4 @@
 # hello-world
 
-Hi-man
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of).
-I've had tacos on the moon and find them far superior to Earth tacos.
+这是一个说明文档
+你可以在这里详细介绍你开发的项目
